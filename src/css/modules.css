@@ -1,0 +1,22 @@
+.desktop.intro, .desktop.main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.smartphone-code {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.mobile.intro, .mobile.interactive {
+    width: 80%;
+    margin: 1rem auto;
+    line-height: 2rem;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+}
